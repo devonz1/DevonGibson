@@ -1,4 +1,4 @@
- <b> Hello , Im Devon </b> 👋🏾 
+ <b> Hello , Im Devon Gibson </b> 👋🏾 
  
 <img src="Black Minimal Motivation Quote LinkedIn Banner (2).png"><br>
 
